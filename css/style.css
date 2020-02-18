@@ -16,7 +16,7 @@
 }
 
 .bg-primary-color{
-    background-color: var(--primary-color)  ;
+    background-color: var(--primary-color)limportant  ;
 }
 
 .text-color{
@@ -47,7 +47,7 @@ header .site-title {
     font-size: 0.7em;
 }
 
-.header-links a{
+.header-links a {
     font-size: 0.9em;
     text-decoration: none;
     color: white;
@@ -65,7 +65,7 @@ header .site-title {
 }
 
 .navbar-nav .nav-item .nav-link{
-    pad: 0 1.3em;
+    padding: 0 1.3em;
 }
 
 .navbar-nav .basket-icon{
